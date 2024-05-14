@@ -1,0 +1,22 @@
+DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biologia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="" alt="cabecalho-imagem">
+        <h1 class="cabecalho-titulo">Aulas de biologia<h1>
+                <ul class="cabecalho-lista">
+                    <li class="cabecalho-item">células</li>
+                    <li class="cabecalho-item">dna</li>
+
+                </ul>
+                <header>
+
+
